@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'TheNorthernBlockAcromLight';
+    src: url('fonts/TheNorthernBlockAcromLight.eot');
+    src: url('fonts/TheNorthernBlockAcromLight.eot') format('embedded-opentype'),
+         url('fonts/TheNorthernBlockAcromLight.woff2') format('woff2'),
+         url('fonts/TheNorthernBlockAcromLight.woff') format('woff'),
+         url('fonts/TheNorthernBlockAcromLight.ttf') format('truetype'),
+         url('fonts/TheNorthernBlockAcromLight.svg#TheNorthernBlockAcromLight') format('svg');
+}
